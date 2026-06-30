@@ -1,0 +1,17 @@
+data/
+models/*.pth
+models/*.pt
+results/*.png
+results/*.csv
+results/*.json
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+Figure_*.png
+*.egg-info/
+wandb/
+.env
+kaggle.json
+archive/
